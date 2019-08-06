@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"paulo","characterIndex":0,"characterName":"Paulo","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Paulo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Paulo","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"sandra","characterIndex":0,"characterName":"sandra","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sandra","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sandra","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Luis","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Paulo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Medico Paulo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Ana","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Julia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Medica Sandra","nickname":"Sandra","note":"","profile":""}
+]
